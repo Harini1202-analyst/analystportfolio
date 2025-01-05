@@ -1,71 +1,53 @@
-# analystportfolio
+# 👋 Hi, I'm Harini J – A Business Analyst Student with Data Analytics Skills
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    
-     <title> Harinijayaprakash's Portfolio<\title>
-      
+## About Me
+I am a **Business Analyst** student with a passion for using data to uncover insights and drive business decisions. As I work toward gaining more experience, I am constantly learning new skills in **Data Analytics**, **Business Intelligence**, and **Data Visualization**. I enjoy bridging the gap between business requirements and technological solutions, using data-driven insights to help companies make informed decisions.
 
-    <link rel="stylesheet" href="styles.css">
-</head>
-<body>
-    <header>
-        <h1>Harinijayaprakash's Portfolio</h1>
-        <p>Aspiring Business Analyst | Commerce Graduate</p>
-    </header>
-    <nav>
-        <ul>
-            <li><a href="#about">About Me</a></li>
-            <li><a href="#skills">Skills</a></li>
-            <li><a href="#projects">Projects</a></li>
-            <li><a href="#contact">Contact</a></li>
-        </ul>
-    </nav>
-    <section id="about">
-        <h2>About Me</h2>
-        <p>Hello! I’m Harini, a commerce student with a passion for data analytics. My goal is to become a top business analyst by leveraging tools like Python, SQL, Power BI, and Tableau.</p>
-    </section>
-    <section id="skills">
-        <h2>Skills</h2>
-        <ul>
-            <li>Python</li>
-            <li>SQL</li>
-            <li>Power BI</li>
-            <li>Tableau</li>
-            <li>Excel</li>
-<li>Communication</li>
-        </ul>
-    </section>
-    <section id="projects">
-        <h2>Projects</h2>
-        <div class="
-">
-            <img src="https://public.tableau.com/views/tableau1_17319190738400/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
-![image](https://github.com/user-attachments/assets/938ade61-7aaf-433b-9c77-bd366b125baf)
-g" alt="Project 1">
-            <h3>Coffee Shop Sales</h3>
-            <p>Created an interactive Power BI dashboard to analyze sales trends by product and geography.</p>
-        </div>
-        <div class="project">
-            <img src="https://github.com/yourusername/portfolio/raw/main/images/project2.jpg" alt="Project 2">
-            <h3>App Insights</h3>
-            <p>Analyzed app data to visualize trends in pricing, ratings, and genres using Tableau.</p>
-        </div>
-        <div class="project">
-            <img src="https://github.com/yourusername/portfolio/raw/main/images/project3.jpg" alt="Project 3">
-            <h3>Chocolate Sales Analysis</h3>
-            <p>Explored sales data trends and visualized comparisons using Python and Excel.</p>
-        </div>
-    </section>
-    <section id="contact">
-        <h2>Contact</h2>
-        <p>Email: <a href="mailto:harinijayaprakash95@gmail.com">harinijayaprakash95@gmail.com</a></p>
-        <p>GitHub: <a href="https://github.com/yourusername">github.com/yourusername</a></p>
-        <p>LinkedIn: <a href="https://linkedin.com/in/yourprofile">linkedin.com/in/yourprofile</a></p>
-    </section>
-    <footer>
-        <p>&copy; 2024 Harinijayaprakash</p>
-    </footer>
-</body>
-</html
+### 💻 Skills
+- **Data Analysis**: Python, R, SQL
+- **Data Visualization**: Tableau, Power BI, Excel
+- **Business Intelligence**: Power BI
+- **Database Management**: MySQL, PostgreSQL
+- **Excel**: Pivot Tables, Data Visualizations
+
+## 📂 Projects
+### 1. **[Sales Insights of Awesome Chocolate](https://github.com/yourusername/sales-insights-awesome-chocolate)**  
+   - **Tools Used**: Tableau, Excel  
+   - Analyzed sales data of a chocolate brand to uncover key insights like sales trends, popular products, and seasonal variations. Created a Tableau dashboard with KPIs like total sales, average order value, and customer demographics.
+
+### 2. **[Online Game Insights](https://github.com/yourusername/online-game-insights)**  
+   - **Tools Used**: Python, SQL  
+   - Performed analysis on the performance of an online game, evaluating player behavior, retention rates, and in-game purchases. Used SQL for data extraction and Python for data analysis and visualization of the findings.
+
+### 3. **[Sales by Month - Tableau Project](https://github.com/yourusername/sales-by-month-tableau)**  
+   - **Tools Used**: Tableau  
+   - Created a sales dashboard in Tableau that visualizes sales trends month-over-month, identifying the best and worst performing months. The dashboard highlights seasonal effects on sales and helps the business forecast future performance.
+
+### 4. **[Excel Sales Insights](https://github.com/yourusername/excel-sales-insights)**  
+   - **Tools Used**: Excel  
+   - Performed detailed sales analysis using Excel, focusing on key metrics like sales by region, product category, and customer demographics. Used pivot tables, conditional formatting, and charts to visualize insights and trends in the data.
+
+### 5. **[Power BI Sales Dashboard](https://github.com/yourusername/power-bi-sales-dashboard)**  
+   - **Tools Used**: Power BI  
+   - Created a comprehensive sales dashboard using Power BI. The dashboard provides insights on sales trends, product performance, and regional performance.  
+   - ![Power BI Sales Dashboard](https://github.com/yourusername/your-repository-name/raw/main/assets/power-bi-sales-dashboard.png)  
+     *Above is a screenshot of the Power BI dashboard.*
+
+## 💼 Education
+- **Bachelor of Commerce in Business Analytics** – PSGR KRISHNAMMAL COLLEGE FOR WOMEN
+- **Relevant Coursework**: Business Analytics, Data Visualization, Data Analysis, Statistics
+
+## 📬 How to Reach Me
+- **Email**: [harinijayaprakash73@gmail.com](mailto:youremail@example.com)
+- **GitHub**: [https://github.com/Harini1202-analyst](https://github.com/yourusername)
+
+---
+
+### 💡 Fun Fact
+I’m constantly exploring new data analysis techniques and enjoy experimenting with different types of datasets in my free time. My goal is to help businesses grow by making data more accessible and actionable!
+
+---
+
+#### Let's Connect and Build Something Amazing! 🌟
+
+ 
