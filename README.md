@@ -17,23 +17,23 @@ link:https://public.tableau.com/views/AWESOME/Dashboard1?:language=en-US&publish
    - **Tools Used**: Tableau, Excel  
    - Analyzed sales data of a chocolate brand to uncover key insights like sales trends, popular products, and seasonal variations. Created a Tableau dashboard with KPIs like total sales, average order value, and customer demographics.
 
-### 2. **[Online Game Insights](https://github.com/yourusername/online-game-insights)**  
-   - **Tools Used**: Python, SQL  
+### 2. Online Game Insights
+   -link:https://public.tableau.com/views/tableau1_17319190738400/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+   - **Tools Used**: Tableau  
    - Performed analysis on the performance of an online game, evaluating player behavior, retention rates, and in-game purchases. Used SQL for data extraction and Python for data analysis and visualization of the findings.
 
-### 3. **[Sales by Month - Tableau Project](https://github.com/yourusername/sales-by-month-tableau)**  
+### 3. Sales By Month
+   -link:https://public.tableau.com/views/SALESBYMONTH_17360405044870/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
    - **Tools Used**: Tableau  
    - Created a sales dashboard in Tableau that visualizes sales trends month-over-month, identifying the best and worst performing months. The dashboard highlights seasonal effects on sales and helps the business forecast future performance.
 
-### 4. **[Excel Sales Insights](https://github.com/yourusername/excel-sales-insights)**  
+### 4. Excel Sales Insights:
+   -link:https://github.com/Harini1202-analyst/Sales_analysis.git
    - **Tools Used**: Excel  
    - Performed detailed sales analysis using Excel, focusing on key metrics like sales by region, product category, and customer demographics. Used pivot tables, conditional formatting, and charts to visualize insights and trends in the data.
 
-### 5. **[Power BI Sales Dashboard](https://github.com/yourusername/power-bi-sales-dashboard)**  
-   - **Tools Used**: Power BI  
-   - Created a comprehensive sales dashboard using Power BI. The dashboard provides insights on sales trends, product performance, and regional performance.  
-   - ![Power BI Sales Dashboard](https://github.com/yourusername/your-repository-name/raw/main/assets/power-bi-sales-dashboard.png)  
-     *Above is a screenshot of the Power BI dashboard.*
 
 ## 💼 Education
 - **Bachelor of Commerce in Business Analytics** – PSGR KRISHNAMMAL COLLEGE FOR WOMEN
