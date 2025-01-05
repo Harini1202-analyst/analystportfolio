@@ -11,7 +11,9 @@ I am a **Business Analyst** student with a passion for using data to uncover ins
 - **Excel**: Pivot Tables, Data Visualizations
 
 ## 📂 Projects
-### 1. **[Sales Insights of Awesome Chocolate](https://github.com/yourusername/sales-insights-awesome-chocolate)**  
+### 1. Sales Insights of Awesome Chocolate:
+link:https://public.tableau.com/views/AWESOME/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link![image](https://github.com/user-attachments/assets/9560c8a0-b9e4-44b2-8140-3d06e3733be0)
+
    - **Tools Used**: Tableau, Excel  
    - Analyzed sales data of a chocolate brand to uncover key insights like sales trends, popular products, and seasonal variations. Created a Tableau dashboard with KPIs like total sales, average order value, and customer demographics.
 
